@@ -1,0 +1,27 @@
+.table-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+}
+
+.table-heading {
+  border-bottom: 1px solid black;
+}
+
+.table-heading-data {
+  padding: 4px;
+}
+
+.table {
+  width: 95%;
+  border: 1px solid black;
+}
+
+table,
+th,
+td {
+  border-collapse: collapse;
+  text-align: center;
+}

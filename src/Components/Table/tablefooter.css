@@ -1,0 +1,18 @@
+.tablefooter-container {
+  /* border: 1px solid black; */
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn-container {
+  display: flex;
+  gap: 35px;
+}
+
+.btn-container button {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}

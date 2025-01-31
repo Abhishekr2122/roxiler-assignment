@@ -1,0 +1,11 @@
+.features-container {
+  /* border: 1px solid red; */
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 0px;
+}
+
+.transaction-input {
+  padding: 8px;
+}

@@ -1,0 +1,12 @@
+.tablerow-data {
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  text-align: center;
+  font-size: 13px;
+  padding: 4px;
+}
+
+.tablerow-image {
+  height: 50px;
+  width: 50px;
+}
